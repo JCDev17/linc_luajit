@@ -1,7 +1,7 @@
 # linc/LuaJIT
 Haxe/hxcpp @:native bindings for [LuaJIT](http://luajit.org/).
 
-Original repositorie: [linc](https://github.com/Sirox228/linc_luajit)
+Original repository: [sirox228](https://github.com/Sirox228/linc_luajit)
 
 This is a [linc](http://snowkit.github.io/linc/) library.
 
